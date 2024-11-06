@@ -6,7 +6,7 @@ https://challenge-12-portfolio.netlify.app/
 
 ![DeveloperImage](ch12ss.png)
 
-This is a simple portfolio page created using React, and deployed using GitHub/Netlify. 
+This is a simple portfolio page created using React and deployed using GitHub/Netlify. 
 
 ## Contributions
 
